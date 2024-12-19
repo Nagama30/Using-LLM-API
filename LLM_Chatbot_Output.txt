@@ -1,0 +1,75 @@
+C:\Users\nagam\Documents\MSDS\Artificial_Intelligence\Homework\HW6>python LLM_Chatbot.py
+Chatbot initialized! Type 'exit' to quit.
+
+You: Hello
+Bot: Hello! How can I help you today?
+
+You: Write a summary about Large Language Models (LLM).
+Bot: Hello! 👋 I'm happy to help.
+
+Large Language Models (LLMs) are a type of artificial intelligence (AI) that are trained on massive amounts of text data. This allows them to understand and generate human-like text, perform a variety of language-related tasks, such as:
+
+* **Translating languages**
+* **Writing different kinds of creative content**
+* **Answering questions in an informative way**
+* **Summarizing large amounts of text**
+* **Generating code**
+
+LLMs are still under development, but they have already made significant progress in many areas of language processing. They are becoming increasingly powerful and sophisticated, and they are likely to play an important role in the future of AI.
+
+Do you want to know more about a specific aspect of LLMs, or would you like to ask me a question? 😊
+
+You: How are you?
+Bot: I'm doing great, thanks for asking! How can I help you today? 😊
+
+You: What is LLM?
+Bot: LLM stands for **Large Language Model**. It's a type of Artificial Intelligence (AI) system that is trained on a massive amount of text data. Think of it as a super-smart computer program that learns how to understand and generate human-like text.
+
+**Here's a simple analogy:** Imagine you have a really, really big library filled with all kinds of books, articles, and stories. An LLM is like a student who spends years reading through all those books and learning the rules of language.  They become so good at it that they can:
+
+* **Translate languages:** They can accurately translate text from one language to another.
+* **Write creative stories:** They can write poems, scripts, or even entire novels with different styles and tones.
+* **Generate code:** They can write code in various programming languages, making it easier for developers.
+* **Answer questions:** They can provide summaries and answers to your questions based on their vast knowledge of the text they were trained on.
+
+**Think of it like this:** LLMs are incredibly powerful tools for understanding and creating human language. They can do all sorts of amazing things!
+
+**Would you like to know more about LLMs, or have any specific questions?** I'm happy to share more information or answer anything you're curious about.
+
+You: Nice
+Bot: I'm glad you found it interesting! 😄  What else would you like to know about LLMs?
+
+Perhaps you'd like to explore:
+
+* **Specific examples of LLMs** like GPT-3 or LaMDA.
+* **The challenges of LLMs**, such as bias and misinformation.
+* **The future of LLMs** and their potential impact on society.
+
+Let me know! I'm happy to delve deeper into any area that piques your interest.
+
+You: What is Gemini?
+Bot: Gemini is Google's latest large language model, announced in December 2023. It's designed to be a "multimodal" AI, meaning it can work with different types of information, like text, images, audio, and even code.  Think of it as a super-powered version of Bard, Google's existing conversational AI.
+
+Here's what makes Gemini special:
+
+* **Advanced Understanding:** It can process and understand information from multiple sources, like web pages, documents, and even real-world images.
+* **Creative Capabilities:**  Gemini excels at creative tasks, like writing different kinds of content, generating different art styles, and even composing music.
+* **Problem-Solving:**  It can analyze complex problems and come up with solutions. This makes it particularly useful in areas like research and engineering.
+
+Google is still actively developing Gemini and plans to release different versions with varying capabilities. It's being positioned as a powerful tool for both personal and professional use, potentially impacting fields like education, healthcare, and entertainment.
+
+Would you like to learn more about Gemini, like its specific features, how it compares to other LLMs, or its potential applications?
+
+You: good
+Bot: That's great! It seems you're interested in learning more about Gemini. Do you have any specific questions about it? For example, you might be curious about:
+
+* **Its specific capabilities**: What kinds of tasks can Gemini handle? What are its strengths compared to other AI models?
+* **Its potential impact**: How might Gemini change the way we work, learn, or interact with technology?
+* **Its development**: What are the future plans for Gemini? How will it be released and made accessible to the public?
+
+I'm happy to answer any questions you have about Gemini. Just let me know what you'd like to explore further. 😊
+
+You: exit
+Goodbye!
+
+C:\Users\nagam\Documents\MSDS\Artificial_Intelligence\Homework\HW6>
